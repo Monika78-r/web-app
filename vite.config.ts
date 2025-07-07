@@ -7,4 +7,9 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  preview: {
+    allowedHosts: ['todo-app-ha5t.onrender.com'],
+    host: '0.0.0.0',
+    port: 10000
+  }
 });
