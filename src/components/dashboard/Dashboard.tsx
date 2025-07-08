@@ -102,7 +102,7 @@ export const Dashboard: React.FC = () => {
       </div>
       {/* Footer */}
       <footer className="bg-white border-t border-gray-200 px-6 py-3 text-center text-sm text-gray-500 animate-fade-in">
-        <span>Made with <span className="text-pink-500">♥</span> for humans. <span className="font-semibold text-gray-700">Created by CHANDRU</span></span>
+        <span><span className="font-semibold text-gray-700">Created by Monika</span></span>
       </footer>
       {/* Modals */}
       <TaskForm
